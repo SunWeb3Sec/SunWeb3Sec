@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sun</h1>
+<h1 align="center">Hi 👋, I'm SunSec</h1>
 <h3 align="center">Security researcher | Pentester | Contributor at #Web3 security #Blockchain #DeFi #InfoSec</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunweb3sec&label=Profile%20views&color=0080ff&&style=flat" alt="sunweb3sec" /> </p>
