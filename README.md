@@ -5,4 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/1nf0s3cpt" target="blank"><img src="https://img.shields.io/twitter/follow/1nf0s3cpt?label=Follow&style=social" alt="1nf0s3cpt" /></a> </p>
 
-![y1cunhui's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunweb3sec&count_private=true&show_icons=true&theme=tokyonight)
+![SunWeb3Sec's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sunweb3sec&theme=tokyonight)
+
+![SunWeb3Sec's GitHub profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunweb3sec&theme=tokyonight)
